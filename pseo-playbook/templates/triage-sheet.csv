@@ -1,0 +1,2 @@
+url,pattern,index_status,clicks_12m,impressions_12m,avg_position_6m,leads,backlinks,duplicate_of,similarity,bucket,reason,redirect_target,owner_decision,done
+https://example.com/hire-react-developers,hire-*,crawled - not indexed,0,140,45.2,0,0,https://example.com/react-development-services,0.88,consolidate,weak on all three measures; 88% similar to a stronger page,https://example.com/react-development-services,agreed,
